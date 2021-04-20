@@ -1,5 +1,4 @@
 {
-  "name": "vision-browser-sync",
   "version": "1.0.0",
   "description": "syncing html file for vision",
   "main": "index.js",
